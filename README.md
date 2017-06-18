@@ -1,2 +1,1 @@
-# ingswgit
-demo simple app to ing software 
+# git-repo-3
